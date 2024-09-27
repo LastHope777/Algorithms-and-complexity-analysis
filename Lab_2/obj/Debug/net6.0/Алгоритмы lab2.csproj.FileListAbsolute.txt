@@ -1,0 +1,30 @@
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.exe
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.deps.json
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.runtimeconfig.json
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.pdb
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.AssemblyInfo.cs
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\refint\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.pdb
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.genruntimeconfig.cache
+C:\Users\Никита\Documents\Мои работы\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\ref\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.exe
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.deps.json
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.runtimeconfig.json
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\bin\Debug\net6.0\Алгоритмы lab2.pdb
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.AssemblyInfo.cs
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\refint\Алгоритмы lab2.dll
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.pdb
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\Алгоритмы lab2.genruntimeconfig.cache
+C:\Users\Никита\Documents\Учёба\Алгоритмы lab2\Алгоритмы lab2\obj\Debug\net6.0\ref\Алгоритмы lab2.dll
